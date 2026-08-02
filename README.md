@@ -5,24 +5,26 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 ## Inscription sur le portail Broadcom
 
 1. Ouvrez votre navigateur et rendez-vous sur le Broadcom Support Portal.
+![image1](C:\GitHub\vmware-workstation-installation\images\01-site-broadcom.png)
 
-3. En haut à droite de la page, cliquez sur le bouton Register pour lancer l'inscription.
+2. En haut à droite de la page, cliquez sur le bouton Register pour lancer l'inscription.
+![image2](C:\GitHub\vmware-workstation-installation\images\02-bouton-register.png)
 
-4. Entrez ensuite votre adresse e-mail, complétez le petit captcha de sécurité pour prouver que vous n'êtes pas un robot, et cliquez sur Next.
+3. Entrez ensuite votre adresse e-mail, complétez le petit captcha de sécurité pour prouver que vous n'êtes pas un robot, et cliquez sur Next.
 
-5. Broadcom va vous envoyer un code de vérification par mail. Allez vite jeter un œil à votre boîte de réception, copiez ce code, puis collez-le sur le site avant de cliquer sur Verify & Continue.
+4. Broadcom va vous envoyer un code de vérification par mail. Allez vite jeter un œil à votre boîte de réception, copiez ce code, puis collez-le sur le site avant de cliquer sur Verify & Continue.
 
-6. Il ne vous reste plus qu'à remplir vos informations de base (comme votre nom et votre mot de passe), à accepter les conditions d'utilisation, et à cliquer sur Create Account.
+5. Il ne vous reste plus qu'à remplir vos informations de base (comme votre nom et votre mot de passe), à accepter les conditions d'utilisation, et à cliquer sur Create Account.
 
-7. Une fois que le compte de base est créé, le site vous propose d'ajouter d'autres services. Ne vous embêtez pas avec ça pour l'instant : cliquez simplement sur I'll do it later (Je le ferai plus tard).
+6. Une fois que le compte de base est créé, le site vous propose d'ajouter d'autres services. Ne vous embêtez pas avec ça pour l'instant : cliquez simplement sur I'll do it later (Je le ferai plus tard).
 
-8. Maintenant que notre compte est prêt, retournez sur support.broadcom.com. En haut à droite, sélectionnez Support Portal et connectez-vous si ce n'est pas déjà fait en cliquant sur Login.
+7. Maintenant que notre compte est prêt, retournez sur support.broadcom.com. En haut à droite, sélectionnez Support Portal et connectez-vous si ce n'est pas déjà fait en cliquant sur Login.
 
-9. Une fois connecté, repérez le menu déroulant en haut de la page et choisissez la division VMware Cloud Foundation. C'est ici que se cachent les logiciels VMware.
+8. Une fois connecté, repérez le menu déroulant en haut de la page et choisissez la division VMware Cloud Foundation. C'est ici que se cachent les logiciels VMware.
 
-10. Dans le menu de gauche, cliquez sur My Downloads. Vous allez voir apparaître un lien hypertexte intitulé 'Free Software Downloads available HERE' (Téléchargements de logiciels gratuits disponibles ICI). Cliquez dessus !
+9. Dans le menu de gauche, cliquez sur My Downloads. Vous allez voir apparaître un lien hypertexte intitulé 'Free Software Downloads available HERE' (Téléchargements de logiciels gratuits disponibles ICI). Cliquez dessus !
 
-11. Dans la barre de recherche qui s'affiche, tapez simplement 'workstation' et cliquez sur le résultat de recherche correspondant. On cherche la ligne VMware Workstation Pro 17.0 for Windows (ou pour Linux si vous êtes sur cet OS). Choisissez la version de votre choix ; pour ma part, je sélectionne la plus récente pour avoir toutes les dernières nouveautés.
+10. Dans la barre de recherche qui s'affiche, tapez simplement 'workstation' et cliquez sur le résultat de recherche correspondant. On cherche la ligne VMware Workstation Pro 17.0 for Windows (ou pour Linux si vous êtes sur cet OS). Choisissez la version de votre choix ; pour ma part, je sélectionne la plus récente pour avoir toutes les dernières nouveautés.
 
 **Attention, voici le piège qui bloque beaucoup de monde ! Avant de pouvoir cocher la case de téléchargement, vous devez impérativement cliquer sur le lien des Terms and Conditions (Termes et conditions). Prenez le temps de l'ouvrir, puis revenez sur la page : la case sera enfin débloquée et vous pourrez la cocher.**
 

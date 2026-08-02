@@ -4,7 +4,7 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 ---
 ## Inscription sur le portail Broadcom
 
-1. Ouvrez votre navigateur et rendez-vous sur le Broadcom Support Portal.
+1. Ouvrez votre navigateur et rendez-vous sur le Broadcom Support Portal. https://support.broadcom.com/
 ![image1](images/01-site-broadcom.png)
 
 2. En haut à droite de la page, cliquez sur le bouton Register pour lancer l'inscription.

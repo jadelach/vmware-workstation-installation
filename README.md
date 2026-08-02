@@ -5,10 +5,10 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 ## Inscription sur le portail Broadcom
 
 1. Ouvrez votre navigateur et rendez-vous sur le Broadcom Support Portal.
-![image1](C:\GitHub\vmware-workstation-installation\images\01-site-broadcom.png)
+![image1](images\01-site-broadcom.png)
 
 2. En haut à droite de la page, cliquez sur le bouton Register pour lancer l'inscription.
-![image2](C:\GitHub\vmware-workstation-installation\images\02-bouton-register.png)
+![image2](images\02-bouton-register.png)
 
 3. Entrez ensuite votre adresse e-mail, complétez le petit captcha de sécurité pour prouver que vous n'êtes pas un robot, et cliquez sur Next.
 

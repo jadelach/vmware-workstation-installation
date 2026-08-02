@@ -14,38 +14,38 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 ![image3](images\03-user-registration.png)
 
 4. Broadcom va vous envoyer un code de vérification par mail. Allez jeter un œil à votre boîte de réception, copiez ce code, puis collez-le sur le site avant de cliquer sur Verify & Continue.
-![image4](images\04-verify-email.png)
+![image4](images/04-verify-email.png)
 
 5. Il ne vous reste plus qu'à remplir vos informations de base, à accepter les conditions d'utilisation, et à cliquer sur Create Account.
-![image5](images\05-complete-registration.png)
+![image5](images/05-complete-registration.png)
 
 6. Une fois que le compte de base est créé, le site vous propose d'ajouter d'autres services. Ne vous embêtez pas avec ça pour l'instant : cliquez simplement sur I'll do it later (Je le ferai plus tard).
-![image6](images\06-do-it-later.png)
+![image6](images/06-do-it-later.png)
 
 7. Maintenant que notre compte est prêt, retournez sur support.broadcom.com. En haut à droite, sélectionnez Support Portal et connectez-vous si ce n'est pas déjà fait en cliquant sur Login.
-![image7](images\07-login.png)
+![image7](images/07-login.png)
 
 8. Une fois connecté, repérez le menu déroulant en haut de la page et choisissez la division VMware Cloud Foundation. C'est ici que se cachent les logiciels VMware.
-![image8](images\08-cloud-foundation.png)
+![image8](images/08-cloud-foundation.png)
 
 9. Dans le menu de gauche, cliquez sur My Downloads. Vous allez voir apparaître un lien hypertexte intitulé 'Free Software Downloads available HERE' (Téléchargements de logiciels gratuits disponibles ICI). Cliquez dessus !
-![image9](images\09-my-downloads.png)
+![image9](images/09-my-downloads.png)
 
 10. Dans la barre de recherche qui s'affiche, tapez simplement 'workstation' et cliquez sur le résultat de recherche correspondant. 
-![image10](images\10-workstation.png)
+![image10](images/10-workstation.png)
 
 11. On cherche la ligne VMware Workstation Pro 17.0 for Windows (ou pour Linux si vous êtes sur cet OS). 
-![image11](images\11-version.png)
+![image11](images/11-version.png)
 
 12. Choisissez la version de votre choix ; pour ma part, je sélectionne la plus récente pour avoir toutes les dernières nouveautés.
 ![image12](images\12-version-recente.png)
 
 13. **Attention, voici le piège qui bloque beaucoup de monde ! Avant de pouvoir cocher la case de téléchargement, vous devez impérativement cliquer sur le lien des Terms and Conditions (Termes et conditions). Prenez le temps de l'ouvrir, puis revenez sur la page : la case sera enfin débloquée et vous pourrez la cocher.**
-![image13](images\13-terms-and-conditions.png)
-![image14](images\14-case-terms.png)
+![image13](images/13-terms-and-conditions.png)
+![image14](images/14-case-terms.png)
 
 14. Allez ensuite tout au bout à droite de la ligne. Vous allez y trouver un petit nuage avec une flèche vers le bas. Cliquez dessus.
-![image15](images\15-nuage.png)
+![image15](images/15-nuage.png)
 
 ---
 

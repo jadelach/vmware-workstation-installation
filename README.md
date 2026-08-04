@@ -54,7 +54,7 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 ![image12](images/12-version-recente.png)
 
 > [!WARNING]
-> ### ⚠️ Étape critique - Déblocage du bouton de téléchargement
+> ### ⚠️ Déblocage du bouton de téléchargement
 > Avant de pouvoir cocher la case d'acceptation, vous **devez impérativement cliquer sur le lien hypertexte des Terms and Conditions**.
 > 
 > 1. Cliquez sur le lien **Terms and Conditions** pour l'ouvrir.
@@ -77,7 +77,7 @@ Ce tutoriel explique comment télécharger, configurer et installer **VMware Wor
 16. Remplissez vos informations de résidence (adresse, ville, code postal).
 
 > [!TIP]
-> **Utilisation personnelle :** Pour le champ obligatoire **Company** (Entreprise), inscrivez simplement `Personal Use` ou `Home Lab`.
+> Pour le champ obligatoire **Company** (Entreprise), inscrivez simplement `Personal Use` ou `Home Lab`.
 
 17. Acceptez les termes de conformité en bas, cliquez sur **Submit**, et voilà ! Le téléchargement se lance automatiquement. Vous retrouverez le fichier d'installation soit dans le dossier 'Téléchargements' de votre explorateur de fichiers, soit directement en haut à droite dans les téléchargements de votre navigateur web.
 ![image16](images/16-trade-compliance.png)
